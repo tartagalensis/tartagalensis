@@ -7,23 +7,63 @@
 
 
 
+- 🤓 Political scientist (soon Political Scientist ^ 2) and data Scientist
+- 💪 Currently working at Ministerio del Interior (Argentina) 
+- 💪💪 Also working as a freelance
+- Passionate about data (specially politics and sports)
 
 
 
-<!--
-**tartagalensis/tartagalensis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡️ Skills
 
-Here are some ideas to get you started:
+Proficient at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: R
+- **Data Science**: Tidyverse
+- **GIS**: sf, leaflet for R, Google My Maps
+- **Tools**: Git, RStudio, VS Code
+- **Databases**: SQL
+- **Machine Learning**: Caret
+
+
+I'm learning:
+
+- **Dashboards**: Shiny
+- **Databases**: MongoDB
+- **Machine Learning**
+- **NLP**
+
+## 🧵🪡 Twitter Threads
+
+### ⚽️🏀🏉 Sports
+<!-- BLOG-POST-LIST:START -->
+- [Copa América](https://twitter.com/Tartagalensis/status/1404531135812673542)
+- [Copa Libertadores](https://twitter.com/Tartagalensis/status/1398670878062387202)
+- [LPF xG](https://twitter.com/Tartagalensis/status/1390442437949247498)
+<!-- BLOG-POST-LIST:END -->
+
+### 🗳📊 Politics
+<!-- BLOG-POST-LIST:START -->
+- [Perú Decide - Ecological Inference](https://twitter.com/Tartagalensis/status/1402377124221235204)
+- [US Elections](https://twitter.com/Tartagalensis/status/1324531590668656642?s=20&t=JrtD1cs7Usf5RG8Z6T4uSw)
+- [Bolivia Elige 2020 - Ecological Inference](https://twitter.com/Tartagalensis/status/1320058127111380993)
+- [Elecciones en Salta - Ecological Inference](https://twitter.com/Tartagalensis/status/1230491535780741120?s=20&t=JrtD1cs7Usf5RG8Z6T4uSw)
+- [Salta PASO 2019](https://twitter.com/Tartagalensis/status/1180634811792101376?s=20&t=JrtD1cs7Usf5RG8Z6T4uSw)
+- [Salta PASO 2019 V2](https://twitter.com/Tartagalensis/status/1181369179342921728)
+- [Salta Generales 2019](https://twitter.com/Tartagalensis/status/1193357709116149760?s=20&t=JrtD1cs7Usf5RG8Z6T4uSw)
+- [Salta Generales 2019 V2](https://twitter.com/Tartagalensis/status/1198743302339780608?s=20&t=JrtD1cs7Usf5RG8Z6T4uSw)
+- [Bolivia Elige 2019 - Electoral Forensics](https://twitter.com/Tartagalensis/status/1186790515553001476?s=20&t=JrtD1cs7Usf5RG8Z6T4uSw)
+- [Bolivia Elige](https://twitter.com/Tartagalensis/status/1185705816076292096)
+<!-- BLOG-POST-LIST:END -->
+
+## 📕 Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [El último tren](https://tartagalensis.netlify.app/cienciaypol/el-ultimo-tren/)
+- [Defendiendo las PASO en Salta](https://tartagalensis.netlify.app/cienciaypol/defendiendo-las-paso-en-salta/)
+- [¿Qué pasó con los votos de Isa en 2019?](https://tartagalensis.netlify.app/cienciaypol/inferencia-ecol%C3%B3gica-en-salta-2019/)
+<!-- BLOG-POST-LIST:END -->
+
 
 
 
