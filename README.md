@@ -1,7 +1,7 @@
 # Hi there 👋! I'm Franco (aka tartagalensis)
 
 [![Blog Badge](https://img.shields.io/badge/tartagalensis.netlify.app-orange)](https://tartagalensis.netlify.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-camartinezbu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franco-galeano-arg "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-fgaleano-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franco-galeano-arg "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@tartagalensis-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/tartagalensis "Follow on Twitter")
 [![Gmail Badge](https://img.shields.io/badge/-fgaleano1996@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fgaleano1996@gmail.com "Connect via Email")
 
