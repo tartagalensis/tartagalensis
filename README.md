@@ -11,7 +11,7 @@
 - 💪 Data Scientist and Data Team Coordinator at [Ministerio del Interior (Argentina)](https://www.argentina.gob.ar/interior) 
 - 💪💪 Also working as a freelance
 - ❤️ Passionate about data (specially politics and sports)
-
+- Contributor at [polAr](https://github.com/PoliticaArgentina)
 
 
 ## ⚡️ Skills
