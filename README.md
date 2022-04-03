@@ -8,9 +8,9 @@
 
 
 - 🤓 Political scientist (soon Political Scientist ^ 2) and data Scientist
-- 💪 Currently working at Ministerio del Interior (Argentina) 
+- 💪 Data Scientist and Data Team Coordinator at [Ministerio del Interior (Argentina)](https://www.argentina.gob.ar/interior) 
 - 💪💪 Also working as a freelance
-- Passionate about data (specially politics and sports)
+- ❤️ Passionate about data (specially politics and sports)
 
 
 
@@ -20,8 +20,11 @@ Proficient at:
 
 - **Languages**: R
 - **Data Science**: Tidyverse
-- **GIS**: sf, leaflet for R, Google My Maps
-- **Tools**: Git, RStudio, VS Code
+- **GIS**: sf, leaflet for R and Google My Maps
+- **Data Viz**: Ggplot2, Plotly and Flourish
+- **Static Blogs**: Blogdown
+- **Dashboards**: Tableau
+- **Tools**: Git, RStudio, Jupyter and VS Code
 - **Databases**: SQL
 - **Machine Learning**: Caret
 
@@ -32,6 +35,16 @@ I'm learning:
 - **Databases**: MongoDB
 - **Machine Learning**
 - **NLP**
+
+
+Intermediate at:
+
+- **Languages**: Python
+- **Data Softwares**: SPSS, STATA and Alteryx
+- **Scraping**: BeautifulSoup and Selenium
+- **Data Wrangling**: Pandas and Numpy
+- **Data Viz**:  Seaborn and Matplotlib
+
 
 ## 🧵🪡 Twitter Threads
 
