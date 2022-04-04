@@ -7,7 +7,7 @@
 
 
 
-- 🤓 Political scientist (soon Political Scientist ^ 2) and data Scientist
+- 🤓 Political scientist (soon Political Scientist ^ 2) and Social Data Scientist
 - 💪 Data Scientist and Data Team Coordinator at [Ministerio del Interior (Argentina)](https://www.argentina.gob.ar/interior) 
 - 💪💪 Also working as a freelance
 - ❤️ Passionate about data (specially politics and sports)
