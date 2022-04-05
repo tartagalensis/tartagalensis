@@ -48,6 +48,12 @@ Intermediate at:
 
 ## 🧵🪡 Twitter Threads
 
+### 📊 Data Viz
+<!-- BLOG-POST-LIST:START -->
+- [#30DayChartChallenge](https://twitter.com/Tartagalensis/status/1510098041499533314?s=20&t=rR0qexZx2thUsmNnq0HQnw)
+<!-- BLOG-POST-LIST:END -->
+
+
 ### ⚽️🏀🏉 Sports
 <!-- BLOG-POST-LIST:START -->
 - [Copa América](https://twitter.com/Tartagalensis/status/1404531135812673542)
@@ -68,6 +74,9 @@ Intermediate at:
 - [Bolivia Elige 2019 - Electoral Forensics](https://twitter.com/Tartagalensis/status/1186790515553001476?s=20&t=JrtD1cs7Usf5RG8Z6T4uSw)
 - [Bolivia Elige](https://twitter.com/Tartagalensis/status/1185705816076292096)
 <!-- BLOG-POST-LIST:END -->
+
+
+
 
 ## 📕 Latest blog posts
 
