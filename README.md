@@ -8,8 +8,9 @@
 
 
 - 🤓 Political scientist (soon Political Scientist ^ 2) and Social Data Scientist
-- 💪 Data Scientist and Data Team Coordinator at [Ministerio del Interior (Argentina)](https://www.argentina.gob.ar/interior) 
+- 💪 Data Scientist at [Mercado Libre](https://www.linkedin.com/company/mercadolibre)
 - 💪💪 Also working as a freelance
+- 🔙 Previously worked as Data Scientist and Team Coordinator at [Ministerio del Interior (Argentina)](https://www.argentina.gob.ar/interior) 
 - ❤️ Passionate about data (specially politics and sports)
 - 📦 Contributor at [polAr](https://github.com/PoliticaArgentina)
 
@@ -18,15 +19,16 @@
 
 Proficient at:
 
-- **Languages**: R
+- **Languages**: R, Python
 - **Data Science**: Tidyverse
+- **Data Wrangling**: Pandas and Numpy
+- **Data Viz**:  Seaborn, Matplotlib, Ggplot2, Plotly and Flourish
 - **GIS**: sf, leaflet for R and Google My Maps
-- **Data Viz**: Ggplot2, Plotly and Flourish
 - **Static Blogs**: Blogdown
-- **Dashboards**: Tableau
+- **Dashboards**: Tableau and Data Studio
 - **Tools**: Git, RStudio, Jupyter and VS Code
 - **Databases**: SQL
-- **Machine Learning**: Caret
+- **Machine Learning**: Caret and Scikit Learn
 
 
 I'm learning:
@@ -39,11 +41,9 @@ I'm learning:
 
 Intermediate at:
 
-- **Languages**: Python
 - **Data Softwares**: SPSS, STATA and Alteryx
 - **Scraping**: BeautifulSoup and Selenium
-- **Data Wrangling**: Pandas and Numpy
-- **Data Viz**:  Seaborn and Matplotlib
+
 
 
 ## 🧵🪡 Twitter Threads
