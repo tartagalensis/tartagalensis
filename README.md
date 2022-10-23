@@ -44,7 +44,10 @@ Intermediate at:
 - **Data Softwares**: SPSS, STATA and Alteryx
 - **Scraping**: BeautifulSoup and Selenium
 
-
+## 📖🤓 Courses
+<!-- BLOG-POST-LIST:START -->
+- [GCBA Datos Formación de Directores Generales - UTDT 2022](https://github.com/tartagalensis/utdt_introDS_2022)
+<!-- BLOG-POST-LIST:END -->
 
 ## 🧵🪡 Twitter Threads
 
