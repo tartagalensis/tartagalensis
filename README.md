@@ -7,7 +7,7 @@
 
 
 
-- 🤓 Political scientist (soon Political Scientist ^ 2) and Social Data Scientist
+- 🤓 Political scientist ^ 2 and Social Data Scientist
 - 💪 Data Scientist at [Mercado Libre](https://www.linkedin.com/company/mercadolibre)
 - 💪💪 Also working as a freelance
 - 🔙 Previously worked as Data Scientist and Team Coordinator at [Ministerio del Interior (Argentina)](https://www.argentina.gob.ar/interior) 
@@ -84,6 +84,7 @@ Intermediate at:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migración del voto: ¿de dónde vino la victoria de Massa?]([https://twitter.com/Tartagalensis/status/1402377124221235204](https://cenital.com/migracion-del-voto-de-donde-vino-la-victoria-de-massa/))
 - [El último tren](https://tartagalensis.netlify.app/cienciaypol/el-ultimo-tren/)
 - [Defendiendo las PASO en Salta](https://tartagalensis.netlify.app/cienciaypol/defendiendo-las-paso-en-salta/)
 - [¿Qué pasó con los votos de Isa en 2019?](https://tartagalensis.netlify.app/cienciaypol/inferencia-ecol%C3%B3gica-en-salta-2019/)
