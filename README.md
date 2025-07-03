@@ -8,9 +8,10 @@
 
 
 - 🤓 Political scientist ^ 2 and Social Data Scientist
-- 💪 Data Scientist at [Mercado Libre](https://www.linkedin.com/company/mercadolibre)
+- 💪 Data Scientist
 - 💪💪 Also working as a freelance
-- 🔙 Previously worked as Data Scientist and Team Coordinator at [Ministerio del Interior (Argentina)](https://www.argentina.gob.ar/interior) 
+- 🔙 Previously worked as Data Scientist and Team Coordinator at [Ministerio del Interior (Argentina)](https://www.argentina.gob.ar/interior)
+- 🔙 Data Scientist at [Mercado Libre](https://www.linkedin.com/company/mercadolibre)
 - ❤️ Passionate about data (specially politics and sports)
 - 📦 Contributor at [polAr](https://github.com/PoliticaArgentina)
 
