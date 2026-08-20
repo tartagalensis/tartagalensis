@@ -58,8 +58,11 @@ Contributor to [**polAr**](https://github.com/PoliticaArgentina), the R package 
 ## Tools
  
 **Python** — pandas, geopandas, scikit-learn, statsmodels
+
 **R** — tidyverse, sf
+
 **Geo** — QGIS, PostGIS, spatial joins, raster processing
+
 **Methods** — RDD, instrumental variables, difference-in-differences, ecological inference, index construction
  
 ---
