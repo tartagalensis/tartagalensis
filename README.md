@@ -13,9 +13,6 @@ Tartagal, Salta, Argentina 🇦🇷
  
 ---
 
----
- 
-
 ## What I do
  
 **Research.** Causal inference and spatial data on Argentine elections: turnout, vote transitions, local political competition, and the fiscal money behind it. Regression discontinuity, instrumental variables, ecological inference.
