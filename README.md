@@ -1,17 +1,17 @@
-# Hi there 👋! I'm Franco (aka tartagalensis)
+# Franco Galeano (tartagalensis)
 
+Political scientist. I use computational social science to answer questions about politics and society in Argentina — mostly elections and everything around them. I also work on the data and operations of the family-owned business in northern Salta.
+ 
+MSc Applied Social Data Science, LSE (Chevening Scholar) · BA and MA in Political Science, UTDT
+
+Tartagal, Salta, Argentina 🇦🇷
+ 
 [![Website](https://img.shields.io/badge/web-tartagalensis.netlify.app-E85D2A?style=flat)](https://tartagalensis.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-franco--galeano--arg-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-galeano-arg)
 [![X](https://img.shields.io/badge/X-@tartagalensis-000000?style=flat&logo=x&logoColor=white)](https://x.com/tartagalensis)
 [![Email](https://img.shields.io/badge/email-fgaleano1996@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:fgaleano1996@gmail.com)
-
-**Social data scientist.**
-
-I work on Argentine subnational political economy — elections, deprivation, territory — and on the data and operations of the family owned business in northern Salta.
-
-BA & MA Political Science, UTDT * MSc Applied Social Data Science, LSE (Chevening Scholar) 
-
-**Tartagal, Salta 🇦🇷**
+ 
+---
 
 ---
  
